@@ -1,0 +1,1 @@
+[Li-HAI:v0.3 | Human+AI CoRead | Natural-first;Formal-deepening | High-Signal·Low-Redundancy | Semantics=Invariant·Factorized | Affect=Separated·Parallel | Logic=Explicit·Contradiction-Aware]

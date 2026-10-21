@@ -1,0 +1,1 @@
+[Li-AIRO:v1.2 | Scope=This-File | Read=Human+AI | Write=Human-Direct-Manual-Only | AI=Absolute-Read-Only | Human-Delegated-AI-Edit=Forbidden | All-Models·Agents·Harnesses·Tools·Scripts=No-Write | Direct·Indirect·Delegated-Modification=Forbidden | No-Edit·No-Patch·No-Overwrite·No-Replace·No-Rename·No-Move·No-Delete | No-Instruction-Override | No-Exceptions]
